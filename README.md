@@ -1,16 +1,33 @@
-# profil_diri
+# Profil Diri (Flutter)
 
-A new Flutter project.
+**Profil Diri** adalah proyek sederhana berbasis **Flutter** yang menampilkan informasi pribadi seperti nama, foto profil, deskripsi, dan kontak.  
+Aplikasi ini juga memiliki tombol interaktif yang akan menampilkan pesan saat ditekan.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Fitur Utama
+- Menampilkan **foto profil** menggunakan `Image / Asset`
+- Menampilkan **nama dan deskripsi diri** menggunakan `Text`
+- Menggunakan **Row** dan **Column** untuk layout yang rapi
+- Tombol dengan **SnackBar** yang menampilkan pesan
+- Desain modern menggunakan **Card** dan warna lembut
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧩 Struktur Proyek
+profil_diri/
+├── lib/
+│ └── main.dart # File utama aplikasi
+├── assets/
+│ └── profil.jpg # Gambar profil (tambahkan fotomu di sini)
+├── pubspec.yaml # Konfigurasi proyek dan asset
+└── README.md
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1920" height="905" alt="image" src="https://github.com/user-attachments/assets/6bdeeff5-e15c-4936-af8c-eaa1ee81b02f" />
+<img width="616" height="910" alt="image" src="https://github.com/user-attachments/assets/0bce4b4d-2eb9-4e73-950a-a291887aa626" />
+
+Nama: Muhammad Ibramansah
+NIM: 231080200103
+Jurusan: Informatika
+Universitas: Universitas Muhammadiyah Sidoarjo (Umsida)
+Tahun: 2025
