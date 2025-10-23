@@ -5,7 +5,7 @@ Aplikasi ini juga memiliki tombol interaktif yang akan menampilkan pesan saat di
 
 ---
 
-## 📱 Fitur Utama
+## Fitur Utama
 - Menampilkan **foto profil** menggunakan `Image / Asset`
 - Menampilkan **nama dan deskripsi diri** menggunakan `Text`
 - Menggunakan **Row** dan **Column** untuk layout yang rapi
@@ -16,3 +16,4 @@ Aplikasi ini juga memiliki tombol interaktif yang akan menampilkan pesan saat di
 
 <img width="1920" height="905" alt="image" src="https://github.com/user-attachments/assets/6bdeeff5-e15c-4936-af8c-eaa1ee81b02f" />
 <img width="616" height="910" alt="image" src="https://github.com/user-attachments/assets/0bce4b4d-2eb9-4e73-950a-a291887aa626" />
+
